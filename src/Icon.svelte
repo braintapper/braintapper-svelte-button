@@ -3,11 +3,11 @@
   export let style = undefined;
   export let disabled = false;
   export let classes = undefined;
-  export let id = id;
+  export let id = undefined;
 
 </script>
 
-<button type="button" on:click {style} {disabled} class={classes}><slot></slot></button>
+<button type="button" on:click {disabled} {id} {style} class={classes}><slot/></button>
 
 <style>
 
