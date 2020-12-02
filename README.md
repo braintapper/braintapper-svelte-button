@@ -1,30 +1,11 @@
-# braintapper-svelte-componentname
+# braintapper-svelte-button
 
-Brief description here
+Button component used for braintapper applications.
 
 
 # Usage
 
-## Component Import
-
-Import the components you need in your <script> tag:
-
-```
-  import Indent from "braintapper-svelte-componentname";
-```
-
-## Example Markup
-
-```
-  <componentname/>
-```
-
-## Prop Values
-
-### prop
-
-### prop
-
+More docs coming soon.
 
 ---
 

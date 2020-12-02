@@ -1,12 +1,12 @@
 {
-  "name": "braintapper-svelte-componentname",
+  "name": "braintapper-svelte-button",
   "version": "0.0.1",
-  "description": "Svelte component for ...",
+  "description": "Svelte component for buttons",
   "author": "braintapper",
   "license": "MIT",
   "repository": {
     "url": "https://github.com/braintapper/braintapper-svelte-componentname"
-  },  
+  },
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
