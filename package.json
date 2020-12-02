@@ -5,7 +5,7 @@
     "author": "braintapper",
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/braintapper/braintapper-svelte-componentname"
+        "url": "https://github.com/braintapper/braintapper-svelte-button"
     },
     "svelte": "src/index.js",
     "module": "dist/index.mjs",
