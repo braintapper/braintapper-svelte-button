@@ -5,6 +5,7 @@
   export let style = undefined;
   export let classes = undefined;
   export let id = undefined;
+
   
 </script>
 
@@ -39,28 +40,24 @@
     color: var(--light-gray);
   }
 
-  button[critical],
+  
   button[state="critical"] {
     background-color: var(--critical);
     color: var(--white);
   }
 
-  button[critical]:hover,
+  
   button[state="critical"]:hover {
     background-color: var(--critical-hover);
   }
 
-  button[critical]:active,
-  button[critical]:focus,
+
   button[state="critical"]:active,
   button[state="critical"]:focus {
     background-color: var(--critical-active);
   }
 
-  button[critical][disabled],
-  button[critical][disabled]:hover,
-  button[critical][disabled]:focus,
-  button[critical][disabled]:active,
+
   button[state="critical"][disabled],
   button[state="critical"][disabled]:hover,
   button[state="critical"][disabled]:focus,
@@ -69,28 +66,24 @@
     color: var(--dark-gray);
   }
 
-  button[primary],
+
   button[state="primary"] {
     background-color: var(--primary);
     color: var(--white);
   }
 
-  button[primary]:hover,
+  
   button[state="primary"]:hover {
     background-color: var(--primary-hover);
   }
 
-  button[primary]:active,
-  button[primary]:focus,
+
   button[state="primary"]:active,
   button[state="primary"]:focus {
     background-color: var(--primary-active);
   }
 
-  button[primary][disabled],
-  button[primary][disabled]:hover,
-  button[primary][disabled]:focus,
-  button[primary][disabled]:active,
+
   button[state="primary"][disabled],
   button[state="primary"][disabled]:hover,
   button[state="primary"][disabled]:focus,
