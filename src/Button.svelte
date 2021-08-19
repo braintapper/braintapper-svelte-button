@@ -20,6 +20,7 @@
     background-color: var(--lighter-gray);
     color: var(--black);
     border-radius: 4px;
+    border: none    
   }
 
   button:hover {
