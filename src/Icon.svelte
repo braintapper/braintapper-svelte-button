@@ -20,10 +20,16 @@
     width: 24px;
     border: none;
     margin: 0px;
+    background-color: transparent;
   }
 
   button:hover {
     background: none;
     cursor: pointer;
   }
+  button:focus,
+  button:focus-visible {
+    outline: none;
+  }
+
 </style>

@@ -1,6 +1,6 @@
 {
     "name": "braintapper-svelte-button",
-    "version": "0.0.4",
+    "version": "0.0.6",
     "description": "Svelte component for buttons",
     "author": "braintapper",
     "license": "MIT",

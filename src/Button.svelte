@@ -28,6 +28,11 @@
     cursor: pointer;
   }
 
+  button:focus,
+  button:focus-visible {
+    outline: none;
+  }
+
   button:active,
   button:focus {
     background-color: var(--gray);
